@@ -1,0 +1,16 @@
+.section {
+  padding-top: var(--space-xl);
+  padding-bottom: var(--space-xl);
+}
+
+.section__title {
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-black);
+}
+
+.section__container {
+  padding: var(--space-lg);
+  max-width: 800px;
+  margin: 0 auto;
+}

@@ -1,0 +1,13 @@
+.bottom-bar {
+  border-radius: var(--border-radius);
+  box-shadow: var(--depth-sm);
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: var(--space-xl);
+  display: flex;
+  padding: var(--space-md) var(--space-lg);
+  gap: var(--space-lg);
+  z-index: 500;
+  background-color: var(--color-white);
+}

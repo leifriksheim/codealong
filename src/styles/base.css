@@ -1,0 +1,29 @@
+html {
+  background: var(--color-background);
+  font-family: var(--font-family-primary);
+  color: var(--color-gray);
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: currentColor;
+}
+
+button {
+  font-family: inherit;
+  font-size: inherit;
+}

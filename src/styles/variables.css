@@ -1,0 +1,27 @@
+:root {
+  --font-family-primary: Arial;
+  --color-background: white;
+
+  --color-primary: #333;
+
+  --color-white: white;
+  --color-black: #333;
+
+  --color-gray-light: #eee;
+  --color-gray: #333;
+  --color-gray-dark: #333;
+
+  --space-sm: 4px;
+  --space-md: 8px;
+  --space-lg: 16px;
+  --space-xl: 32px;
+
+  --font-size-sm: 16px;
+  --font-size-md: 20px;
+  --font-size-lg: 32px;
+  --font-size-xl: 48px;
+
+  --border-radius: 16px;
+
+  --depth-sm: 0px 3px 12px 0px rgba(0, 0, 0, 0.1);
+}
